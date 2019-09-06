@@ -57,9 +57,12 @@ namespace Stations_Monitor
                                 dtDataProduction = dtProduction.GetProductionByDateByShift(dtCell.Rows[0]["cell_id"].ToString(), "2019/08/28", data[0].ToString());
                                 if (dtDataProduction.Rows.Count > 1)
                                 {
+                                    //test
+                                    //tes
+                                    
                                     GridView1.DataSource = dtDataProduction;
                                     GridView1.DataBind();
-
+                                    //cfsdsdfksdfjpskf
                                     Session["DataProduction"] = dtDataProduction;
                                     Session["Cell"] = dtCell.Rows[0]["cell_id"].ToString();
                                     Session["ProductionDate"] = "2019/08/28";
