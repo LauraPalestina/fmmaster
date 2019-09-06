@@ -64,9 +64,7 @@ namespace Stations_Monitor
                                     GridView1.DataSource = dtDataProduction;
                                     GridView1.DataBind();
                                     Session["DataProduction"] = dtDataProduction;
-                                    Session["Cell"] = dtCell.Rows[0]["cell_id"].ToString();
-                                    Session["ProductionDate"] = "2019/08/28";
-                                    Session["Shift"] = data[0].ToString();
+                                  
 
                                     lblProductionDate.Text = "2019/08/28";
                                     lblShift.Text = data[0].ToString();
