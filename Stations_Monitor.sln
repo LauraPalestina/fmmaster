@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stations_Monitor", "Stations_Monitor\Stations_Monitor.csproj", "{7CE1B600-1924-4274-B2E7-1A045B9586F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARC_Library", "..\ARC_Library\ARC_Library\ARC_Library.csproj", "{8FDE0A9A-A23C-4607-AE41-20C943645686}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "..\ARC_Library\ARC_Library\Library.csproj", "{8FDE0A9A-A23C-4607-AE41-20C943645686}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

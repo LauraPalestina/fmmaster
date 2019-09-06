@@ -231,9 +231,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ARC_Library\ARC_Library\ARC_Library.csproj">
+    <ProjectReference Include="..\..\ARC_Library\ARC_Library\Library.csproj">
       <Project>{8fde0a9a-a23c-4607-ae41-20c943645686}</Project>
-      <Name>ARC_Library</Name>
+      <Name>Library</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
