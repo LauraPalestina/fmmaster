@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stations_Monitor", "Stations_Monitor\Stations_Monitor.csproj", "{7CE1B600-1924-4274-B2E7-1A045B9586F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARC_Library", "..\ARC_Library\ARC_Library\ARC_Library.csproj", "{8FDE0A9A-A23C-4607-AE41-20C943645686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE1B600-1924-4274-B2E7-1A045B9586F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE1B600-1924-4274-B2E7-1A045B9586F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE1B600-1924-4274-B2E7-1A045B9586F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE1B600-1924-4274-B2E7-1A045B9586F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDE0A9A-A23C-4607-AE41-20C943645686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDE0A9A-A23C-4607-AE41-20C943645686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDE0A9A-A23C-4607-AE41-20C943645686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDE0A9A-A23C-4607-AE41-20C943645686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D1FA81A-1988-4186-8EC5-8BACC3181C22}
+	EndGlobalSection
+EndGlobal
