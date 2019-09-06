@@ -38,7 +38,7 @@
                                 <asp:Label ID="lblShift" runat="server" BorderStyle="None" Font-Bold="False" Font-Size="12pt"></asp:Label>
                                         </td>
                                         <td>
-                                            ZXCzc</td>
+                                            ZXCzckkkk</td>
                                     </tr>
                                     <tr>
                                         <td>
